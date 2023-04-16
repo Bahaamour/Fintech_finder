@@ -1,6 +1,6 @@
 # Fintech_finder
 
-![An image for the header of the Repository](./images/eth.png)
+![An image for the header of the Repository](./images/fintech.png)
 
 Fintech Finder is an application that its customers can use to find fintech professionals from among a list of candidates, hire them, and pay them using cryptocurrency.
 
